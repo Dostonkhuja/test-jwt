@@ -23,6 +23,7 @@ const Profile = () => {
                 <h4><b>city</b> : {myProfile.city}</h4>
                 <h4><b>work place</b> : {myProfile.workPlace}</h4>
                 <h4><b>aboutMe</b> : {myProfile.aboutMe}</h4>
+                <h4><b>aboutMe</b> : {myProfile.aboutMe}</h4>
             </div>}
         </div>
     );
